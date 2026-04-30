@@ -39,7 +39,8 @@ This project helped me understand:
 
 
 ## Screenshot
-<img width="1907" height="772" alt="Screenshot 10" src="https://github.com/user-attachments/assets/d3933b15-2b0a-4b80-ac36-be33afe1a0e1" />
+<img width="1825" height="903" alt="Screenshot 2026-04-29 152734" src="https://github.com/user-attachments/assets/62455b8e-6b39-43af-b994-c8207f28f6a4" />
+
 
 
 
