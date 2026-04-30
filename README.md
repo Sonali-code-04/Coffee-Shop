@@ -1,5 +1,9 @@
 # ☕ Coffee Shop Website
 
+## 🚀 Live Demo
+
+https://coffee-shop-rouge-rho.vercel.app/
+
 ## Description
 
 A responsive coffee shop website built using HTML, CSS, and JavaScript.
@@ -39,9 +43,10 @@ This project helped me understand:
 
 
 ## Screenshot
-<img width="1825" height="903" alt="Screenshot 2026-04-29 152734" src="https://github.com/user-attachments/assets/62455b8e-6b39-43af-b994-c8207f28f6a4" />
-
-
+! [Home] <img width="1825" height="903" alt="Screenshot 2026-04-29 152734" src="https://github.com/user-attachments/assets/62455b8e-6b39-43af-b994-c8207f28f6a4" />
+! [Gallery] <img width="1723" height="793" alt="Screenshot 5  gallery" src="https://github.com/user-attachments/assets/d7705297-3cc4-4886-8795-affbd25388cc" />
+! [Testimonials] <img width="1714" height="904" alt="Screenshot 5 testimonials" src="https://github.com/user-attachments/assets/01f57800-4212-457c-9326-376030ca09e9" />
+! [Contact Us] <img width="1771" height="849" alt="Screenshot 5  contact" src="https://github.com/user-attachments/assets/5f41305f-e571-4fe4-8aae-aa6ab57e623d" />
 
 
 ## Future Improvements
